@@ -7,7 +7,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @SpringBootApplication
 @EnableEurekaServer
-@EnableAspectJAutoProxy//
+@EnableAspectJAutoProxy//local
 public class ServerClusterApplication {
 
 	public static void main(String[] args) {
